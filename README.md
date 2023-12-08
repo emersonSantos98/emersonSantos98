@@ -19,6 +19,11 @@ Convido você a explorar meus projetos e compartilhar ideias. Juntos, podemos co
 ## 📂 Portifolio:
 [![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emersonsantos98.github.io/)
 
+
+## 📠 Talk to me
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox)
+[![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511937507856&text=Ol%C3%A1)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block"><br/>
