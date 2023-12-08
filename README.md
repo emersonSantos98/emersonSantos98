@@ -1,15 +1,32 @@
+
 ### Olá! Eu sou o Emerson Santos ✋🏾
 
-[![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emersonsantos98.github.io/)
+Movido pela curiosidade e apaixonado por tecnologia, mergulho em diferentes áreas, explorando desde o desenvolvimento web até os avanços mais recentes na inovação tecnológica. Atualmente, estou imerso no desenvolvimento web, criando soluções que combinam elegância e eficiência.
+
+Minha jornada inclui desafios do frontend com HTML, CSS e JavaScript, assim como explorações no backend com Node.js, e nuances de bancos de dados como MySQL e PostgreSQL. Acredito profundamente no potencial transformador da tecnologia para moldar o amanhã.
+
+Além do código, sou um entusiasta do empreendedorismo, sempre em busca de oportunidades que ofereçam crescimento profissional e sucesso financeiro. Acredito na combinação certa de tecnologia e criatividade para transformar ideias em realidade.
+
+Convido você a explorar meus projetos e compartilhar ideias. Juntos, podemos construir algo incrível!
+
+
+
+## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-santos-3857ba221/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson1998santos/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emersonSantos98)
 
-
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonSantos98&show_icons=true&theme=radical)
+## 📂 Portifolio:
+[![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://emersonsantos98.github.io/)
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inlaine_block"><br/>
+<div style="display: inline-block"><br/>
+<!-- Adicione suas tecnologias destacadas aqui -->
+</div>
+<br/>
+
+<div style="display: inline-block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -25,11 +42,17 @@
 </div>
 <br/>
 
-
-- 💻 Desenvolvendo soluções inovadoras, buscando o sucesso financeiro e saboreando cada conquista. Acredito que a tecnologia pode transformar vidas, e estou comprometido em fazer a diferença, uma linha de código por vez.
-
 ## Projetos Destacados
 
 - 🚀 Criador do [RapidFunnels](https://app.rapidfunnels.com.br/login): Um editor intuitivo de páginas de vendas web para simplificar a criação de conteúdo.
 
+## 📊 GitHub Stats:
 
+![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonSantos98&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emersonSantos98&theme=dracula)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=emersonSantos98&row=2&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 💻 Desenvolvendo soluções inovadoras, buscando o sucesso financeiro e saboreando cada conquista. Acredito que a tecnologia pode transformar vidas. 
